@@ -65,7 +65,7 @@ else if(genNames.includes(names)){
     document.querySelector(".message").textContent="Hi " +names+ ", Enoda bachelor life over, kalyanam aagapodhu so marakama kalyanathuku vandhuru.. I will be waiting for you";   
 }
 else if(anni.includes(names)){
-    document.querySelector(".message").textContent="Hi Anni andha honeymoon package ah konjam manasla vechikonga ungaluku oru pudhu sister kedachi irukanga ennala namba ellarum serndhu ini fun panlam anni" +emoji;
+    document.querySelector(".message").textContent="Hi Anni andha honeymoon package ah konjam manasla vechikonga ungaluku oru pudhu sister kedachi irukanga ennala...so, namba ellarum serndhu ini fun panlam anni" +emoji;
 }
 else if(susi.includes(names)){
     document.querySelector(".message").textContent="Hi susi, enaku kalyanam aagapodhu rendu naal munadiye vandhuru..kalyanam ayiduchu nu call panama lam irukadha epavum pola walking porapa call panu baby " +emoji;
